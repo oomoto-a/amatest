@@ -27,7 +27,7 @@ SECRET_KEY = '8n0vw_c#-_+w+e^y&b3*=_1t^9#eug08r5zg6m#&tktpkhau9d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*','3.115.120.231','172.31.13.243']
+ALLOWED_HOSTS = ['*']
 
 
 STATIC_ROOT = '/usr/share/nginx/html/static'
